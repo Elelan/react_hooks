@@ -12,7 +12,9 @@ import './style.css'
 
 const App = () => (
     <>
-    <UseRefExample />
+    {/*<UseContextExample />*/}
+    {/*<UseRefExample />*/}
+    <UseMemoExample />
     </>
 );
 
