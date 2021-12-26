@@ -3,7 +3,7 @@ body {
     line-height: 1.4;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
         'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 5em;
+    margin: 2em;
 }
 
 p {
@@ -55,7 +55,7 @@ button:hover {
 .sidebar {
     background-color:hsla(210, 28%, 85%, 0.45);
     border-radius: 2px;
-    width: 30rem;
+    width: 40rem;
     padding: 0 1rem;
     margin: 0 0.5rem;
 }
